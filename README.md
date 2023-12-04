@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Добро пожаловать на  мой GitHub! Меня зовут <span color="green">Анастасия</span></h1> 👋
+<h3 align="center">Frontend-разработчик</h3>
 
 <!--
 **Anastassiya-Rybak/Anastassiya-Rybak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

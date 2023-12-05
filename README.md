@@ -13,7 +13,7 @@
   <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="Node js" height="42" display="inline">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Anastassiya-Rybak=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anastassiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastassiya-Rybak)](https://github.com/Anastassiya-Rybak/github-readme-stats)
 
 <!--
 **Anastassiya-Rybak/Anastassiya-Rybak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

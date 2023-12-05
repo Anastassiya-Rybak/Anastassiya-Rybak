@@ -3,6 +3,13 @@
 <hr>
 <h4>Languages ang Tools:</h4>
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" height="42">
+<img src="https://www.svgrepo.com/show/373535/css.svg" alt="CSS3" height="42">
+<img src="https://www.svgrepo.com/show/374067/scss2.svg" alt="SCSS" height="42">
+<img src="https://www.svgrepo.com/show/452045/js.svg" alt="JS" height="42">
+<img src="https://www.svgrepo.com/show/354528/vue.svg" alt="Vue3" height="42">
+<img src="https://www.svgrepo.com/show/373940/nuxt.svg" alt="Nuxt3" height="42">
+<img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="Bootstrap" height="42">
+<img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="Node js" height="42">
 
 <!--
 **Anastassiya-Rybak/Anastassiya-Rybak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

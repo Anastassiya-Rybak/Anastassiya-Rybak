@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer</h3>
 <hr>
 <h4>Languages ang Tools:</h4>
-<div display="flex" flex-wrap="wrap">
+<div display="flex" flex-wrap="wrap" margin="40 auto">
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" height="42" display="inline">
   <img src="https://www.svgrepo.com/show/373535/css.svg" alt="CSS3" height="42" display="inline">
   <img src="https://www.svgrepo.com/show/374067/scss2.svg" alt="SCSS" height="42" display="inline">
